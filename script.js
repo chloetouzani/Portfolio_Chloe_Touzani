@@ -1,7 +1,7 @@
 "use strict";
 
 // ******************** CONSTANTS ********************
-const reponse = await fetch("/projects.json")
+const reponse = await fetch("./projects.json");
 const projects = await reponse.json();
 
 // ******************** VARIABLES ********************
