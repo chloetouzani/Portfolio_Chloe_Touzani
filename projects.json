@@ -4,7 +4,7 @@
     "name": "Booki",
     "description": "Booki est un site Web de location de logements en ligne.\nCe projet à été réalisé au cours de ma formation Open Classrooms afin d'apprendre à utiliser html et CSS",
     "technologies": ["HTML", "CSS"],
-    "image": "/images/Booki.png",
+    "image": "./images/Booki.png",
     "url": "https://chloetouzani.github.io/booki/",
     "codeUrl": "https://github.com/chloetouzani/booki"
   },
@@ -14,7 +14,7 @@
     "name": "Sophie Bluel",
     "description": "Sophie Bluel est le portfolio de l'architecte d'intérieur Sophie Bluel. Ce projet a été créé au cours de ma formation afin d'apprendre à rendre un site dynamique avec JavaScript",
     "technologies": ["HTML", "CSS", "JavaScript"],
-    "image": "/images/Sophie-Bluel.png",
+    "image": "./images/Sophie-Bluel.png",
     "url": " ",
     "codeUrl": "https://github.com/chloetouzani/sophie-bluel"
   },
@@ -24,7 +24,7 @@
     "name": "Azertype",
     "description": "Azertype est un site web proposant sous forme de jeu d'améliorer sa rapidité d'écriture sur ordinateur. Ce projet a été réalisé au cours de ma formation Open Classrooms afin d'apprendre les bases de JavaScript",
     "technologies": ["HTML", "CSS", "JavaScript"],
-    "image": "/images/AzerType.png",
+    "image": "./images/AzerType.png",
     "url": "https://chloetouzani.github.io/AzerType/",
     "codeUrl": "https://github.com/chloetouzani/AzerType"
   },
@@ -34,7 +34,7 @@
     "name": "Nina Carducci",
     "description": "Ce site est le site web et portfolio de la photographe Nina Carducci. Ce projet a été fait au cours de ma formation Open Classrooms afin d'apprendre l'optimisation d'un sites web déjà crée en SEO, en accessibilité ainsi que pour ses performances. ",
     "technologies": ["HTML", "CSS"],
-    "image": "/images/Nina-Carducci.png",
+    "image": "./images/Nina-Carducci.png",
     "url": "https://chloetouzani.github.io/Nina-Carducci/",
     "codeUrl": "https://github.com/chloetouzani/Nina-Carducci"
   },
@@ -44,7 +44,7 @@
     "name": "Kasa",
     "description": "Kasa est un site web de location de logements. Ce projet a été créé au cours de ma formation Open Classrooms afin d'apprendre à utiliser React.js et SCSS",
     "technologies": ["HTML", "SCSS", "React.js"],
-    "image":"/images/Kasa.png",
+    "image":"./images/Kasa.png",
     "url": "https://chloetouzani.github.io/Kasa/",
     "codeUrl": "https://github.com/chloetouzani/Kasa"
   },
@@ -54,7 +54,7 @@
     "name": "Mon Vieux Grimoire",
     "description": "Mon Vieux Grimoire est un site présentant des livres que les utilisateurs peuvent ajouter et noter. Ce projet a été fait au cours de ma formation Open Classrooms afin d'apprendre à utiliser Node.js, Express.js et MongoDB",
     "technologies": ["Node.js", "Express.js", "MongoDB"],
-    "image": "/images/Vieux-Grimoire.png",
+    "image": "./images/Vieux-Grimoire.png",
     "url": " ",
     "codeUrl": "https://github.com/chloetouzani/Vieux-Grimoire"
   }
