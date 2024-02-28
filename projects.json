@@ -15,7 +15,7 @@
     "description": "Sophie Bluel est le portfolio de l'architecte d'intérieur Sophie Bluel. Ce projet a été créé au cours de ma formation afin d'apprendre à rendre un site dynamique avec JavaScript",
     "technologies": ["HTML", "CSS", "JavaScript"],
     "image": "/images/Sophie-Bluel.png",
-    "url": null,
+    "url": " ",
     "codeUrl": "https://github.com/chloetouzani/sophie-bluel"
   },
 
@@ -55,7 +55,7 @@
     "description": "Mon Vieux Grimoire est un site présentant des livres que les utilisateurs peuvent ajouter et noter. Ce projet a été fait au cours de ma formation Open Classrooms afin d'apprendre à utiliser Node.js, Express.js et MongoDB",
     "technologies": ["Node.js", "Express.js", "MongoDB"],
     "image": "/images/Vieux-Grimoire.png",
-    "url": null,
+    "url": " ",
     "codeUrl": "https://github.com/chloetouzani/Vieux-Grimoire"
   }
 ]

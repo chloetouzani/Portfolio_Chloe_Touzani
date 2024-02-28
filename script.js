@@ -52,7 +52,7 @@ function createProjectButtons(projects, i) {
   code.innerText            = "Voir le code";
   code.href                 = projects[i].codeUrl;
 
-  if (projects[i].url !== null) {
+  if (projects[i].url !== " ") {
     buttonDiv.appendChild(webSite);
   }
 
