@@ -23,6 +23,7 @@ function createProjects(projects) {
 
     section.id            = projects[i].name;
     img.src               = projects[i].image;
+    console.log(projects[i].image);
     img.alt               = projects[i].name;
     figcaption.innerText  = projects[i].name;
     h3.innerText          = projects[i].name;
